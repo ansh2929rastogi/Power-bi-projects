@@ -25,6 +25,6 @@ Skills Demonstrated: Power BI | Data Visualization | Business Analytics | KPI Re
 
 ## 📸 Dashboard Preview  
 
-![Coffee Shop Sales Dashboard]()
+![Coffee Shop Sales Dashboard](https://github.com/ansh2929rastogi/Power-bi-projects/blob/main/DASHBOARD%20IMAGE.jpg)
 
 
