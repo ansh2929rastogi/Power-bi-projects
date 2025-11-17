@@ -42,3 +42,6 @@ Top items: Barista Espresso ($10.5K), Gourmet Brewed Coffee ($7.5K)
 
 Shows sales contribution with stronger weekends (Sunday $9.1K).
 
+DASHBOARD IMAGE---
+
+
